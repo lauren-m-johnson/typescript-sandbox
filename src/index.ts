@@ -1,2 +1,4 @@
-let user: [number, string] = [1, 'Mosh'];
 
+function calculateTax(income: number): number {
+    return 0;
+}
